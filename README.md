@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--<!-- daianekr's GitHub README -->
 
