@@ -2,11 +2,7 @@
 
 <!--<!-- daianekr's GitHub README -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/daianekr" alt="daianekr avatar" width="120" style="border-radius: 50%;">
-</p>
-
-<h1 align="center">Hi there, I'm Daiane! 👋</h1>
+<h1 align="center">Hi there, I'm Daiane! But you can call me ✨ Dai ✨ </h1>
 <p align="center">
   <em>Analytics Engineer | Data Enthusiast | Music Lover | Lifelong Learner</em>
 </p>
