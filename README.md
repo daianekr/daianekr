@@ -15,7 +15,7 @@
 - 💼 **Analytics Engineer**  
   Former mid-level Data Engineer, passionate about transforming data into insights and building intelligent solutions.
 - 📊 **Top Skills:**  
-  Data Analysis, Exploratory Data Analysis (EDA), data investigation, and data visualization (especially with Streamlit!).
+  Data Analysis, Exploratory Data Analysis (EDA), data investigation, and data visualization.
 - 🤖 **Always Learning:**  
   Enthusiastic about everything ML, LLMs, and their real-world applications.
 
