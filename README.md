@@ -1,7 +1,7 @@
 
 <!--<!-- daianekr's GitHub README -->
 
-<h1 align="center">Hi there, I'm Daiane! But you can call me ✨ Dai ✨ </h1>
+<h1 align="center">Hi there!  </h1>
 <p align="center">
   <em>Analytics Engineer | Data Enthusiast | Music Lover | Lifelong Learner</em>
 </p>
